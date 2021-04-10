@@ -1,0 +1,12 @@
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\5Обръщане на елементите\bin\Debug\netcoreapp3.1\5Обръщане на елементите.exe
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\5Обръщане на елементите\bin\Debug\netcoreapp3.1\5Обръщане на елементите.deps.json
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\5Обръщане на елементите\bin\Debug\netcoreapp3.1\5Обръщане на елементите.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\5Обръщане на елементите\bin\Debug\netcoreapp3.1\5Обръщане на елементите.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\5Обръщане на елементите\bin\Debug\netcoreapp3.1\5Обръщане на елементите.dll
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\5Обръщане на елементите\bin\Debug\netcoreapp3.1\5Обръщане на елементите.pdb
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\5Обръщане на елементите\obj\Debug\netcoreapp3.1\5Обръщане на елементите.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\5Обръщане на елементите\obj\Debug\netcoreapp3.1\5Обръщане на елементите.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\5Обръщане на елементите\obj\Debug\netcoreapp3.1\5Обръщане на елементите.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\5Обръщане на елементите\obj\Debug\netcoreapp3.1\5Обръщане на елементите.dll
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\5Обръщане на елементите\obj\Debug\netcoreapp3.1\5Обръщане на елементите.pdb
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\5Обръщане на елементите\obj\Debug\netcoreapp3.1\5Обръщане на елементите.genruntimeconfig.cache
