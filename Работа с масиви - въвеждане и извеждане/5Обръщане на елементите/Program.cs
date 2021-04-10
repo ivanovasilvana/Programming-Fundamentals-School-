@@ -17,9 +17,9 @@ namespace _5Обръщане_на_елементите
             }
             for (int i = 0; i < length; i++)
             {
-                newArray[i] = array[(length - 1) - i];
+                newArray[i] = array[length - i - 1];
             }
-            Console.WriteLine(string.Join(' ', newArray));
+            Console.WriteLine(string.Join(" ", newArray));
         }
     }
 }

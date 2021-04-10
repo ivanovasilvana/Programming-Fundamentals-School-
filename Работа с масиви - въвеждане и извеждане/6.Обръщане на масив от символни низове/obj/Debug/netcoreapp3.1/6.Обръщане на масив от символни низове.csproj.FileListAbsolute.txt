@@ -1,0 +1,12 @@
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\6.Обръщане на масив от символни низове\bin\Debug\netcoreapp3.1\6.Обръщане на масив от символни низове.exe
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\6.Обръщане на масив от символни низове\bin\Debug\netcoreapp3.1\6.Обръщане на масив от символни низове.deps.json
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\6.Обръщане на масив от символни низове\bin\Debug\netcoreapp3.1\6.Обръщане на масив от символни низове.runtimeconfig.json
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\6.Обръщане на масив от символни низове\bin\Debug\netcoreapp3.1\6.Обръщане на масив от символни низове.runtimeconfig.dev.json
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\6.Обръщане на масив от символни низове\bin\Debug\netcoreapp3.1\6.Обръщане на масив от символни низове.dll
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\6.Обръщане на масив от символни низове\bin\Debug\netcoreapp3.1\6.Обръщане на масив от символни низове.pdb
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\6.Обръщане на масив от символни низове\obj\Debug\netcoreapp3.1\6.Обръщане на масив от символни низове.AssemblyInfoInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\6.Обръщане на масив от символни низове\obj\Debug\netcoreapp3.1\6.Обръщане на масив от символни низове.AssemblyInfo.cs
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\6.Обръщане на масив от символни низове\obj\Debug\netcoreapp3.1\6.Обръщане на масив от символни низове.csproj.CoreCompileInputs.cache
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\6.Обръщане на масив от символни низове\obj\Debug\netcoreapp3.1\6.Обръщане на масив от символни низове.dll
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\6.Обръщане на масив от символни низове\obj\Debug\netcoreapp3.1\6.Обръщане на масив от символни низове.pdb
+C:\СофтУни\C#\Programming-Fundamentals-School\Работа с масиви - въвеждане и извеждане\6.Обръщане на масив от символни низове\obj\Debug\netcoreapp3.1\6.Обръщане на масив от символни низове.genruntimeconfig.cache
