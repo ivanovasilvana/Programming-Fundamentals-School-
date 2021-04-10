@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1Статистика на масив", "1Статистика на масив\1Статистика на масив.csproj", "{311772DC-D29B-4792-A245-39A90C341812}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1Статистика на масив", "1Статистика на масив\1Статистика на масив.csproj", "{311772DC-D29B-4792-A245-39A90C341812}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2Най-често срещано число", "2Най-често срещано число\2Най-често срещано число.csproj", "{D7CDC087-EFBB-47E3-A9CD-52B21F384FC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2Най-често срещано число", "2Най-често срещано число\2Най-често срещано число.csproj", "{D7CDC087-EFBB-47E3-A9CD-52B21F384FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Индекс на буква", "3Индекс на буква\3Индекс на буква.csproj", "{F10E1BB6-77DA-4BD8-B393-B7C96BDF257A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D7CDC087-EFBB-47E3-A9CD-52B21F384FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7CDC087-EFBB-47E3-A9CD-52B21F384FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7CDC087-EFBB-47E3-A9CD-52B21F384FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10E1BB6-77DA-4BD8-B393-B7C96BDF257A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10E1BB6-77DA-4BD8-B393-B7C96BDF257A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10E1BB6-77DA-4BD8-B393-B7C96BDF257A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10E1BB6-77DA-4BD8-B393-B7C96BDF257A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

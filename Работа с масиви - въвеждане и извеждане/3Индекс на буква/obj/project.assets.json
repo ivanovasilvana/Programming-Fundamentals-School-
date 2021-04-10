@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Fundamentals-School\\Работа с масиви - въвеждане и извеждане\\2Най-често срещано число\\2Най-често срещано число.csproj",
-      "projectName": "2Най-често срещано число",
-      "projectPath": "C:\\СофтУни\\C#\\Programming-Fundamentals-School\\Работа с масиви - въвеждане и извеждане\\2Най-често срещано число\\2Най-често срещано число.csproj",
+      "projectUniqueName": "C:\\СофтУни\\C#\\Programming-Fundamentals-School\\Работа с масиви - въвеждане и извеждане\\3Индекс на буква\\3Индекс на буква.csproj",
+      "projectName": "3Индекс на буква",
+      "projectPath": "C:\\СофтУни\\C#\\Programming-Fundamentals-School\\Работа с масиви - въвеждане и извеждане\\3Индекс на буква\\3Индекс на буква.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\СофтУни\\C#\\Programming-Fundamentals-School\\Работа с масиви - въвеждане и извеждане\\2Най-често срещано число\\obj\\",
+      "outputPath": "C:\\СофтУни\\C#\\Programming-Fundamentals-School\\Работа с масиви - въвеждане и извеждане\\3Индекс на буква\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
