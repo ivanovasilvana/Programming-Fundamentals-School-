@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Обръщане на ел
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Обръщане на масив от символни низове", "6.Обръщане на масив от символни низове\6.Обръщане на масив от символни низове.csproj", "{18196314-BB6B-4167-93A0-B9A5F4E2689C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7Завъртане и сумиране", "7Завъртане и сумиране\7Завъртане и сумиране.csproj", "{A4203BB8-1FFE-4C57-9E46-0E927BE82855}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{18196314-BB6B-4167-93A0-B9A5F4E2689C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18196314-BB6B-4167-93A0-B9A5F4E2689C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18196314-BB6B-4167-93A0-B9A5F4E2689C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4203BB8-1FFE-4C57-9E46-0E927BE82855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4203BB8-1FFE-4C57-9E46-0E927BE82855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4203BB8-1FFE-4C57-9E46-0E927BE82855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4203BB8-1FFE-4C57-9E46-0E927BE82855}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

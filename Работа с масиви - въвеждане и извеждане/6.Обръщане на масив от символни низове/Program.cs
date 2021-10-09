@@ -7,8 +7,8 @@ namespace _6.Обръщане_на_масив_от_символни_низове
         static void Main(string[] args)
         {
             string[] array = Console.ReadLine().Split(' ').ToArray();
-            array.Reverse();
-            Console.WriteLine(string.Join(' ', array));
+            Array.Reverse(array);
+            Console.WriteLine(string.Join(" ", array));
         }
     }
 }
